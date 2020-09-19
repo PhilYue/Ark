@@ -19,6 +19,8 @@ sometimes | something | simple memory
   
 #### Humongous Objects and Humongous Allocations
 
+1. Base On JDK8
+
 尝试调整 Region 的大小，`-XX:G1HeapRegionSize`
 
 ```
